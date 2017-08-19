@@ -37,7 +37,7 @@ namespace MathsLibraryTests
         public void Test_Div_Zero()
         {
             int a = 1, b = 0;
-            Assert.AreEqual("NA", opClass.DivInt(a, b));
+            Assert.AreEqual("N", opClass.DivInt(a, b));
         }
     }
 }
