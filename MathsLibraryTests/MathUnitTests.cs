@@ -25,6 +25,12 @@ namespace MathsLibraryTests
             int a = 1, b = 1;
             Assert.AreEqual(2, opClass.AddInt(a, b));
         }
+        [Test]
+        public void Test_Add_Negative_Numbers()
+        {
+            int a = -1, b = -1;
+            Assert.AreEqual(0, opClass.AddInt(a, b));
+        }
 
         [Test]
         public void Test_Div_NonZero()
