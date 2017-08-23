@@ -1,0 +1,18 @@
+<package>
+  <metadata>
+    <id>MathsLibrary</id>
+    <version>1.0.0.0</version>
+    <authors>Z003S6ZD</authors>
+    <owners>Z003S6ZD</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The MathsLibrary deployment package, built on 8/19/2017</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\Presentations\DF PL\SourceCode\Git\MathSample\MathsLibrary\bin\Debug\MathsLibrary.dll" target="MathsLibrary.dll" />
+    <file src="D:\Presentations\DF PL\SourceCode\Git\MathSample\MathsLibrary\bin\Debug\MathsLibrary.pdb" target="MathsLibrary.pdb" />
+  </files>
+</package>
