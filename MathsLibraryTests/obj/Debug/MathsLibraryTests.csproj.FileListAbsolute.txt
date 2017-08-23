@@ -1,9 +1,0 @@
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibraryTests.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibraryTests.pdb
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibrary.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\nunit.framework.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\MathsLibrary.pdb
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\bin\Debug\nunit.framework.xml
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.csprojResolveAssemblyReference.cache
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibraryTests\obj\Debug\MathsLibraryTests.pdb
