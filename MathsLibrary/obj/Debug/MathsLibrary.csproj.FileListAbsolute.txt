@@ -1,5 +1,0 @@
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csprojResolveAssemblyReference.cache
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
-D:\Presentations\DF PL\SourceCode\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb
